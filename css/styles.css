@@ -81,6 +81,7 @@
 }
 #tool-top #search-cart .btn-search:hover {
 	background-color: #339933;
+	border-color: #339933;
 	-webkit-transition: 0.3;
 	-o-transition: 0.3;
 	transition: 0.3;
